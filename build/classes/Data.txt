@@ -1,0 +1,13 @@
+car modelS tesla 2018 - 32999
+motorcycle model1 pishtaz 2008 - 1999
+car serie4 bmw 2012 - 15999
+bus 320 mercedesBenz 1965 - 999
+truck bti amico 2004 - 7999
+car timeMachine(limited) GMC 1985 - 999999
+truck m12 volvo 2014 - 49999
+car GT lotus 1980 - 97999
+car corsa opel 2000 - 2999
+truck yelloDay Cat 2015 - 29999
+bus blueSky renault 2011 - 9999
+car modelX tesla 2019 - 39999
+motorcycle xii hunda 2015 - 3999
